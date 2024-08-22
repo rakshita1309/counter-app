@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://media.istockphoto.com/id/1397028825/vector/pastel-green-mint-abstract-wave-template.jpg?s=612x612&w=0&k=20&c=9wVskbKfFPebGQJei0c6EBq7WxJE98bxrpZdsJhLQO0=');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
